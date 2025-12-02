@@ -176,10 +176,6 @@ Key features include:
 4. **Testing Suite**  
    - Unit and integration tests
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 
 For issues or feature requests, please open an issue on the GitHub repository.
